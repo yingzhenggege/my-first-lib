@@ -1,0 +1,1 @@
+(function(e,t){typeof exports=="object"&&typeof module<"u"?t(exports):typeof define=="function"&&define.amd?define(["exports"],t):(e=typeof globalThis<"u"?globalThis:e||self,t(e.MyLib={}))})(this,function(e){"use strict";function t(){console.log("这是一个测试方法！！")}e.test=t,Object.defineProperty(e,Symbol.toStringTag,{value:"Module"})});
