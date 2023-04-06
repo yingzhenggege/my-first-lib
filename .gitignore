@@ -8,6 +8,9 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+lib
+index.html
+vite.config.js
 dist-ssr
 *.local
 
