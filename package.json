@@ -18,5 +18,6 @@
       "import":"./dist/my-lib.js",
       "require":"./dist/my-lib.umd.cjs"
     }
-  }
+  },
+  "files": ["dist"]
 }
